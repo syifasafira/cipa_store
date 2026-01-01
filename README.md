@@ -2,7 +2,7 @@
 
 **CIPA STORE** is a modern, responsive, and full-featured E-Commerce application built with **Laravel 10** and **Tailwind CSS**. It is designed for fashion retailers, offering a seamless shopping experience and a powerful admin management dashboard.
 
-![Cipa Store](https://via.placeholder.com/1200x600?text=Cipa+Store+Preview)
+![Cipa Store](https://res.cloudinary.com/dhzmvh3fw/image/upload/v1767251198/Screenshot_2_xyeg15.png)
 
 ## 🚀 Features
 
